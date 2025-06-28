@@ -33,7 +33,7 @@ function About() {
                     </p>
                     {/* Resume Button */}
                     <a
-                        href="https://drive.google.com/file/d/1KjkUtZ5CrRQKkgqMuIBM_kzy06mGDukO/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1KkOcm0qzvbMHQ49UfO_TZ5YgnvbzHmX-/view?usp=sharing"
                         target="_blank"
                         className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
                         style={{
