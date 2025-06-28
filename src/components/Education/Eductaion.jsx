@@ -20,7 +20,7 @@ function Education() {
 
     ]
     return (
-        <section id="education" className="py-20 px-[7vw] lg:px-[10vw] font-sans bg-skills-gradient clip-path-custom-3">
+        <section id="education" className="py-20 sm:py-24 px-[7vw] lg:px-[10vw] font-sans bg-skills-gradient clip-path-custom-3">
             {/* Section Title */}
             <div className='text-center mb-8 '>
                 <h2 className='text-3xl sm:text-4xl font-bold text-white'>EDUCATION</h2>
