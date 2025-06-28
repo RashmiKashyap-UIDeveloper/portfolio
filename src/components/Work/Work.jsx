@@ -18,7 +18,7 @@ function Work() {
             desc: "Led UI/UX design and frontend development for Jenda, a data-driven platform for beverage alcohol suppliers and distributors. Designed real-time analytics dashboard, and detailed reports, improved data visualization, and optimized the UI for a seamless user experience.",
             img: jenda,
             tags: ["React", "Angular", "HTML", "CSS", "Bootstrap 5", 'JavaScript', 'Django Templates', "Metronic Components", "Figma", "Photoshop", "Illustrator", "API"],
-            webUrl: "https://jenda.com/",
+            webUrl: "https://jenda.vercel.app/",
             uiUrl: "https://www.behance.net/gallery/221160811/Jenda"
         },
         {
