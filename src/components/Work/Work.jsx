@@ -92,7 +92,7 @@ function Work() {
         };
     }, [selectedProject])
     return (
-        <section id="work" className="pb-10  sm:pt-12 sm:pb-24 px-[7vw] lg:px-[10vw] font-sans relative">
+        <section id="work" className="pb-10  sm:pt-14 sm:pb-24 px-[7vw] lg:px-[10vw] font-sans relative">
             {/* Section Title */}
             <div className='text-center mb-8 '>
                 <h2 className='text-3xl sm:text-4xl font-bold text-white'>PROJECTS</h2>
