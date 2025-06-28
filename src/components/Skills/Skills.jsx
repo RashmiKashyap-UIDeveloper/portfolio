@@ -76,7 +76,7 @@ function Skills() {
         }
     ]
     return (
-        <section id="skills" className='py-16 sm:py-24 px-[7vw] lg:px-[10vw] font-sans mt-0 md:mt-14 bg-skills-gradient  clip-path-custom'>
+        <section id="skills" className='py-16 sm:py-24 px-[7vw] lg:px-[10vw] font-sans bg-skills-gradient clip-path-custom'>
             {/* Section Title */}
             <div className='text-center mb-8 '>
                 <h2 className='text-3xl sm:text-4xl font-bold text-white'>SKILLS</h2>
